@@ -1,0 +1,21 @@
+GP: Games played
+PPG: Points Scored Per Game
+oPPGPoints Allowed Per Game
+pDIFF: Points Differential = [(Total Points Scored) – (Total Points Allowed)]/ (Games Played)
+PACE: Pace, an estimate of Possessions Per 48 Minutes
+oEFF: Offensive Efficiency, points scored per 100 possessions
+dEFF: Defensive Efficiency, points allowed per 100 possessions
+eDIFF: Efficiency Differential = [(Total Offensive Efficiency) – (Total Defensive Efficiency)]/ (Games Played)
+SOS: Strength of the Schedule Opponent efficiency differential average for all games played so far (venue of the games also taken into account) is used as an indicator of the strength of the schedule. The higher the SoS rating, the tougher the schedule; where zero is average
+rSOS: Remaining Strength of the Schedule Opponent efficiency differential average for the remaining games (venue of the games also taken into account) is used as an indicator of the strength of the schedule. The higher the rSOS rating, the tougher the remaining schedule; where zero is average
+
+SAR: Schedule Adjusted Rating An evaluation of teams based on efficiency differential and strength of schedule
+CONS: Consistency Rating Consistency based on game-by-game efficiency differential variation. The higher the team has consistency rating, the more unpredictable it is
+a4F: Adjusted Four Factors, calculated by applying weights to the differentials of offensive and defensive four factors. A4F explains the specified proportion of variability in wins
+W: Wins: The most important goal in sports unless your team is not tanking
+L: Losses: Total number of games lost
+W%: Winning percentage
+eWIN%: Correlated Gaussian Expected Winning Percentage, indicates the ideal winning percentage based on offensive and defensive performance
+pWIN%: Projected Winning Percentage, each point differential translates to 2.7 wins over the course of the season
+ACH: Achievement Level In Terms of Wins, this metric is based on the differential between actual and expected winning percentages. Positive figures indicate overachievement while negative figures indicate the team should have won more games.
+STRK: Current Streak, winning or losing streak for the season
