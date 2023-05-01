@@ -1,4 +1,5 @@
 # NBA Regular Season Performance Comparison
+- NBA Regular Season consists of 82 games and 30 teams compete with each other to mark their place in the playoffs. These 30 teams are grouped into two - Eastern and western Conference and the top 8 teams from the each conference makes to the playoffs 
 ## Overview
 - As a basketball enthusiast myself we always want to compare your Favourite team with the other to prove who is better, this motivated me 
 to build this dashboard. 
